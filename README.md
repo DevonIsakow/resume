@@ -16,8 +16,6 @@ New York City, NY
 - Created documentation for best practices to display data and track additional data points.
 - Aided top level management with business strategy and data modelling 
 
----
-
 ###### Business Data Analyst @ Gust
 New York City, NY  
 June 2013 - 2015
@@ -28,8 +26,6 @@ June 2013 - 2015
 - Led data audit of replatforming process.
 - Responsible for implementing event based analytic framework.
 - Conducted regular data-driven testing of site security and general bug discovery.
-
----
 
 ###### Founder @ Asymptote Security 
 Poughkeepsie, NY  
