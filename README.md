@@ -16,6 +16,7 @@ New York City, NY
 - Created documentation for best practices to display data and track additional data points.
 - Aided top level management with business strategy and data modelling 
 
+---
 
 ###### Business Data Analyst @ Gust
 New York City, NY  
@@ -40,10 +41,17 @@ August 2011 - June 2013
 
 ---
 
-### Technical Skills
-Databases | Languages | Analytic/visualization Tools
-:------------: |:------------:| :------------:
-**PostgreSQL**, MongoDB, Cassandra | **Ruby**, Haskell, LISP  | **Tableau**, indicative, **Chartio**, **PeriscopeData**, R
+### Current Technology Stack
+
+- Redshift Database for data storage and access
+- PeriscopeData to display data and end user investigation
+- AWS Data pipeline to implement ETL and collate data
+- Postgresql for production data
+- MongoDB for production data
+- StrongDM for database access and security
+- Segment.io for third party data collection
+
+---
 
 ### Graduate Education
 
