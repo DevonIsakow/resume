@@ -1,25 +1,41 @@
 # Devon Isakow
-#### Data Engineer
+#### Finance Data Engineer
 
 ### Personal Statement
-I am a data engineer working to combine data from disparate sources in order to track usage and drive product development. My primary focus is on ensuring teams are able to answer questions themselves using data. 
+I am a data engineer focussed on creating the infrastructure needed in FinTech products. My primary goal is to ensure data is available, accurate, and auditable. 
 
 
 ### Professional Experience
 
-###### Data Engineer @ Gust
-New York City, NY  
-2015 - current
+###### PetalCard
+New York City, NY
 
+####### Capital Markets
+May 2020 - Current
+- Helped with renewal of $300mm debt facility and creation of new $126mm facility
+- Managed continual "draw" process for access to funds
+- Built allowance methodology for projection of credit losses on a cohort basis
+- Conducted end to end reconciliation of cardholder balances for audit 
+
+####### Data Engineer
+May 2019 - May 2020
+- Created "auditable" framework for loading data
+- Refactored Loan Tape code to reconcile balances to the cent and decrease creation time to be linear
+- Created reporting hierarchy for accurate metrics internally and externally
+- Built infrastructure for debt servicing
+
+###### Gust
+New York City, NY  
+
+####### Data Engineer
+2015 - May 2019
 - Managed a small team prioritizing short term (ad-hoc) data needs with building sustainable infrastructure 
 - Implemented framework for automatic collection and sanitization of third party data. 
 - Created documentation for best practices to display data and track additional data points.
 - Aided top level management with business strategy and data modelling 
 
-###### Business Data Analyst @ Gust
-New York City, NY  
+####### Business Data Analyst  
 June 2013 - 2015
-
 - Responsible for establishment of cross departmental KPI's.
 - Evaluated and implemented analytics and visualization tools for company wide use. 
 - Generated weekly, monthly and quarterly reports for internal and external partners.
@@ -27,25 +43,22 @@ June 2013 - 2015
 - Responsible for implementing event based analytic framework.
 - Conducted regular data-driven testing of site security and general bug discovery.
 
-###### Founder @ Asymptote Security 
-Poughkeepsie, NY  
-August 2011 - June 2013 
-
-- Founded company and established team.
-- Patented algorithm for secure transmission and verification of biometric data over unsecure channels.
-- Worked with team to develop proof of concept and prototype software.
-
 ---
 
-### Current Technology Stack
+### Technologies
 
-- Redshift Database for data storage and access
-- PeriscopeData to display data and end user investigation
-- AWS Data pipeline to implement ETL and collate data
-- Postgresql for production data
-- MongoDB for production data
-- StrongDM for database access and security
-- Segment.io for third party data collection
+#### Advanced 
+- Redshift/Postgres
+- Python
+- Jenkins
+- Amazon data pipelines
+
+#### Proficient
+- Ruby
+- MongoDB
+- Amazon Kinesis / Kafka
+- Amazon Lambda
+- Bash scripting
 
 ---
 
